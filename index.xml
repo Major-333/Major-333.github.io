@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JuJu Blog</title>
+    <link>https://major-333.github.io/</link>
+    <description>Recent content on JuJu Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 01 Aug 2020 16:10:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://major-333.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>你好，八月</title>
+      <link>https://major-333.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 01 Aug 2020 16:10:00 +0800</pubDate>
+      
+      <guid>https://major-333.github.io/posts/my-first-post/</guid>
+      <description>2020.8.1终于建站了！！！，鸽子精实在是鸽了太久了。
+ 希望可以坚持记录下去，无论是心情还是技术
+ps：这个模板好像在home预览的时候是不区分markdown的标题和正文的hmm</description>
+    </item>
+    
+  </channel>
+</rss>
